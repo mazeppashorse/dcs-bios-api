@@ -1,6 +1,6 @@
 {
-  "name": "dcs-bios-api",
-  "version": "0.0.8",
+  "name": "dcs-bios-api-mazeppa",
+  "version": "0.1.0",
   "description": "DCS BIOS export parser that returns JSON data",
   "keywords": [
     "dcs",
@@ -14,11 +14,11 @@
     "start": "node index.js",
     "lint": "eslint ."
   },
-  "author": "Daniel Tian <dftian@gmail.com>",
+  "author": "mazeppa<mazeppa@nym.hush.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:danieltian/dcs-bios-api.git"
+    "url": "https://github.com/mazeppashorse/dcs-bios-api.git"
   },
   "dependencies": {
     "buffer-utils": "^1.0.1",
